@@ -31,3 +31,5 @@ Logistic regression models help in identifying high-risk groups for smoking.
 Policy recommendations based on findings include targeted awareness campaigns.
 ## 👤 Author
 Zhenghao An
+## Disclaimer
+This project was developed as part of my coursework at Boston University (BU MET Program). The contents of this repository represent my own work and do not include any proprietary course materials, data, or solutions provided by BU. If you are a current student, please adhere to BU’s academic integrity policies.
